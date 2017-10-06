@@ -1,0 +1,46 @@
+
+
+body {
+    background:url('https://i.pinimg.com/236x/0e/1f/49/0e1f490ecf5010dfb6106acd84262583--wallpaper-ombre-iphone-plain-color-wallpapers-iphone.jpg');
+    margin:0px;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    background-size: 100% 110%;
+}
+
+.sign-up{
+    color:RED;
+    margin-left:-1%;
+    cursor:pointer;
+    text-decoration:underline;
+    text-align:center;
+    cursor:pointer;
+}
+/*
+.logout-form{
+    border:.5px solid #fff;
+    background:#111244;
+    border-radius:10px;
+    box-shadow:10px 0px 10px #000;
+}
+
+
+.form-login{
+    margin:0 auto;
+    max-width:295px;
+}
+
+
+div {
+    border-style: dotted;
+    border: 10px solid brown;
+    border-radius: 5px;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 15%;
+
+    color:  darkblue;
+
+
+}
+*/
